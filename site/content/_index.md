@@ -1,6 +1,6 @@
 ---
-title: "Cartonescu.ro - Cutii de carton, folie cu bule si folie stretch"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Cartonescu.ro - Cutii de carton si materiale ieftine de ambalare!"
+subtitle: Cutii de carton cu autoformare, cutii de carton ieftine, folie cu bule si folie stretch, plicuri curierat autoadezive, plicuri din folie  cu bule, banda adeziva!
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
