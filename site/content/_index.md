@@ -1,5 +1,5 @@
 ---
-title: "Great coffee with a conscience"
+title: "Cartonescu.ro - Cutii de carton, folie cu bule si folie stretch"
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
