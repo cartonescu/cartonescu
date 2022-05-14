@@ -1,7 +1,8 @@
 ---
 title: "Cartonescu.ro - Cutii de carton si materiale ieftine de ambalare!"
 subtitle: Cutii de carton cu autoformare, cutii de carton ieftine, folie cu bule si folie stretch, plicuri curierat autoadezive, plicuri din folie  cu bule, banda adeziva!
-blurb:
+image: /img/cutie.jpg
+blurb: 0722155788
     heading: Why Kaldi?
     text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
 intro:
